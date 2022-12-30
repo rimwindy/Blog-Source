@@ -92,7 +92,7 @@ style:
     # main_color: '#574266'
     main_color: '#FA8C35'
     main_color_dark: '#FA8C35'
-    selection_color: '#FA974B'
+    selection_color: '#48C0A3'
 
   # 弧度设置
   radius:

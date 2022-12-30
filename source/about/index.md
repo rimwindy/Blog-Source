@@ -1,17 +1,39 @@
 ---
 title: 关于
-date: 2022-11-13 17:09:17
+date: 2022-12-30 17:09:17
 layout: post
 toc: false
 copyright: false
 ---
-
 ## 关于我
-动画爱好者/技术宅/过好平凡的生活
+* 九五后，出生在苏北平原的一个小地方
+* 现为魔都普通上班族，Java 后端工程师
+* 大学的时候接触过一些设计、视频剪辑和 3D 渲染相关的知识，有一些[低创作品](https://space.bilibili.com/206940703/channel/seriesdetail?sid=1525194)
+* 闲暇时喜欢看书，严肃文学和通俗文学都看，后者更多一些
+* 二刺螈，喜欢看[冻鳗](https://space.bilibili.com/206940703/bangumi)，偶尔会玩玩 GalGame
+* 技术力菜，努力学习中...
 
 ## 关于本站
-来自远方的朋友，欢迎来到我的博客~
+如你所见，这是一个独立博客网站，内容基本是一些学习笔记、生活琐事之类。最初的域名是`mashiro.vip`，后来换成了`akaneym.com`，也即“茜の夢”的罗马音。来源是一部扳机社的动画——《SSSS.GRIDMAN》，虽然六花也很可爱，但我果然还是更喜欢新条茜。建站其实也有好几年了，但一直没怎么写，期间换过动态、静态的各种架构和主题。其中的细节便不再赘叙了吧，总之最后还是选择了最适合我的静态站点，也许是老了吧，不再像大学时候那么爱折腾了。目前博客使用的是 Hexo & Giscus，主题是 Cards。依托于 GitHub Discussion 和 CloudFlare CDN，配合免费的 GitHub Actions，基本上除了内容其他都不用考虑了，不得不说资本主义的羊毛还真是香（逃。
 
-这里是我用来记述生活的地方，或许是一些技术上的分享，或许是一些偶得的感触，亦或者只是一些平常日子里的琐事… 其实一直都想有个地方能记录下生活，虽然也一直有在写日记，不过基本都是流水账… 偶尔看番啦、看书啦有感触的时候颇有写点什么的冲动，然而写进日记里显然是不太合适的，相对来说博客就是个很好的地方了，它就像是岁月的手札，记述着我的所思、所想、所得。对于我这种日常存在感稀薄的人来说，这里的一字一句，都会是我活过的证明吧~
+## 我在玩
+* Steam: [rimwindy](https://steamcommunity.com/profiles/76561198810845598)
+* 原神: UID#100863000
+![](https://genshin-card.getloli.com/64/76098423.png)
 
-域名来自一部我很喜欢的番，当初买来便是准备做博客之用，然而兜兜转转了一大圈：Hexo、Jekyll、Wordpress、Typecho，其实大部分心思都花在了折腾视觉效果上，文章产出却低的可怜，颇有些本末倒置之嫌，直到最近才好好静下心来，又回到了Hexo，基本依托于Github全家桶，不用折腾那么多，安心写东西就好（虽然没啥技术含量）。如果这里的文章能对你有所帮助的话，那真是再好不过了~
+## 联系我
+* [GitHub](https://github.com/rimwindy)
+* [Twitter](https://twitter.com/rimwindy)
+* [Bilibili](https://space.bilibili.com/206940703)
+* Mail: kcmk1465#gmail.com (# => @)
+
+## 友链申请
+欢迎交换友链~
+请在评论区留言告知你的:
+```yml
+# Example
+- name: Akane's Dreamland
+    url: https://akaneym.com/
+    avatar: https://akaneym.com/img/avatar.jpg
+    desc: 前天看到了小兔，昨天是小鹿，今天是你
+```
