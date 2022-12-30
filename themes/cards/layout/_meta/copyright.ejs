@@ -1,0 +1,25 @@
+<% if (theme.meta.copyright.enable && page.copyright !== false) { %>
+    <div class="license">
+        <div class="license-title"><%= post.title %></div>
+        <div class="license-link"><a
+                href="<%= page.permalink %>"><%= post.permalink %></a></div>
+        <div class="license-meta">
+            <div class="license-meta-item">
+                <div class="license-meta-title">本文作者</div>
+                <div class="license-meta-text"><%= theme.meta.author.name %></div>
+            </div>
+            <div class="license-meta-item">
+                <div class="license-meta-title">最后更新</div>
+                <div class="license-meta-text"><%= date(post.updated, theme.meta.updated.format) %></div>
+            </div>
+            <div class="license-meta-item">
+                <div class="license-meta-title">许可协议</div>
+                <div class="license-meta-text"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"
+                        rel="nofollow noopener noreferrer" target="_blank">CC BY-NC-SA 4.0</a></div>
+            </div>
+        </div>
+        <% (theme.meta.copyright.custom_text || []).forEach((text) => { %>
+                <div><%= text %></div>
+        <% }); %>
+    </div>
+<% } %>
