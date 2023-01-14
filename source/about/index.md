@@ -19,7 +19,7 @@ copyright: false
 ## 我在玩
 * Steam: [rimwindy](https://steamcommunity.com/profiles/76561198810845598)
 * 原神: UID#100863000
-![](https://genshin-card.getloli.com/64/76098423.png)
+![](https://genshin-card.akaneym.com/detail/19/76098423.png)
 
 ## 联系我
 * [GitHub](https://github.com/rimwindy)
