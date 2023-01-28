@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /css
+Disallow: /js
+Disallow: /img
+Disallow: /*.json$
+
+Sitemap: https://akaneym.com/sitemap.xml

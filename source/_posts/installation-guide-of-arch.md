@@ -264,7 +264,7 @@ visudo
 # 自行替换username为你的用户名
 useradd -m -G wheel username
 ```
-相关参数的解释可以看我的[上一篇](https://www.akaneym.com/post/install-arch-on-windows/#%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7)文章，这里就不再赘述了。
+相关参数的解释可以看我的[上一篇](https://www.akaneym.com/posts/install-arch-on-windows/#%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7)文章，这里就不再赘述了。
 为你的新用户添加密码（这个密码是要经常用的）：
 ```bash
 # 自行替换username为你的用户名
