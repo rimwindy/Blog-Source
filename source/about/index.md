@@ -25,7 +25,7 @@ copyright: false
 * [GitHub](https://github.com/rimwindy)
 * [Twitter](https://twitter.com/rimwindy)
 * [Bilibili](https://space.bilibili.com/206940703)
-* Mail: kcmk1465#gmail.com (# => @)
+* [Email](mailto:me@akaneym.com)
 
 ## 友链申请
 欢迎交换友链~
