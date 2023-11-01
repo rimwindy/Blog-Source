@@ -14,11 +14,11 @@ head:
 
   # 网站图标
   favicon:
-    ico: img/favicon.ico
-    small: img/favicon-16x16.png
-    medium: img/favicon-32x32.png
-    apple_touch_icon: img/apple-touch-icon.png
-    safari_pinned_tab: img/safari-pinned-tab.svg
+    ico: favicon.ico
+    small: favicon-16x16.png
+    medium: favicon-32x32.png
+    apple_touch_icon: apple-touch-icon.png
+    safari_pinned_tab: safari-pinned-tab.svg
 
   # 社交分享链接
   opengraph:
