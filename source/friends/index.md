@@ -1,5 +1,5 @@
 ---
-title: friends
+title: 友链
 date: 2022-11-13 16:58:37
 layout: links
 links:
